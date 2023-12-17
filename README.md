@@ -1,23 +1,23 @@
-Summarize the project and what problem it was solving.
+**Summarize the project and what problem it was solving.**
 
 The project involved creating an item-tracking program for the Corner Grocer, which needed to analyze text records listing items purchased in chronological order to optimize their store layout. The program had four menu options: one for finding the frequency of a specific item, another to print a list of all items with their frequencies, a third to create a text-based histogram, and a fourth to exit the program.
 
-What did you do particularly well?
+**What did you do particularly well?**
 
 I particularly excelled in the implementation of a robust and efficient exit functionality (Menu Option Four). This feature not only provided users with a straightforward way to exit the program but also ensured that the program terminated gracefully without any issues. By focusing on the reliability of this critical component, I contributed to the overall user satisfaction and the program's stability, making it a dependable tool for the Corner Grocer's daily operations.
 
-Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on?
+**Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on?**
 
 One significant area where I could enhance my code is by implementing comprehensive input validation and error handling mechanisms. By adding input validation, I can ensure that users provide only valid and expected inputs, reducing the risk of unexpected behaviors or crashes due to erroneous user entries. Additionally, robust error handling would allow the program to gracefully respond to unforeseen issues, providing informative error messages or prompts to guide users in troubleshooting. These improvements would not only enhance the code's security and reliability but also contribute to a smoother user experience, making the program more user-friendly and less prone to errors.
 
-Which pieces of the code did you find most challenging to write, and how did you overcome this? What tools or resources are you adding to your support network?
+**Which pieces of the code did you find most challenging to write, and how did you overcome this? What tools or resources are you adding to your support network?**
 
 The most challenging aspect of the code was creating the text-based histogram (Menu Option Three) to represent item frequencies visually. To overcome this challenge, I initially broke down the problem into smaller steps, mapping out the logic needed to generate the histogram. I leveraged loops to iterate through the data and used string manipulation techniques to display the histogram accurately. Additionally, I sought help from online programming communities and tutorials to gain insights into graphical representation in text-based applications. These experiences enhanced my problem-solving skills and expanded my support network, making it easier to tackle similar challenges in future projects.
 
-What skills from this project will be particularly transferable to other projects or course work?
+**What skills from this project will be particularly transferable to other projects or course work?**
 
 Several skills from this project are highly transferable to other projects and coursework. Firstly, the ability to design and implement a user-friendly interface, including menu systems, is a valuable skill applicable to a wide range of software development endeavors. Secondly, the experience gained in handling file input and output operations is fundamental and relevant in various programming contexts. Moreover, the use of data structures, such as maps in this case, for efficient data management is a skill that can be applied to solve different data-related challenges. Lastly, the emphasis on code readability, best practices, and documentation ensures that these professional habits become ingrained, promoting clarity and maintainability in future coding endeavors. These skills collectively form a strong foundation for success in other projects and coursework in software development and programming.
 
-How did you make this program maintainable, readable, and adaptable?
+**How did you make this program maintainable, readable, and adaptable?**
 
 To make this program maintainable, readable, and adaptable, I followed several key practices. I structured the code into classes with well-defined public and private sections, which promotes modularity and ease of maintenance. Additionally, I adhered to industry-standard naming conventions, ensuring that variables, functions, and classes had clear and meaningful names, enhancing code readability. In-line comments were added throughout the code, providing explanations for complex logic and making it easier for future developers to understand and modify the program. Furthermore, I documented the code's design and functionality comprehensively, including supportive screenshots, to aid both current and future users and maintainers. This documentation serves as a valuable reference for adapting the program to changing requirements or extending its functionality, ensuring its long-term adaptability.
